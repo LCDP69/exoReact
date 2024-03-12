@@ -1,0 +1,18 @@
+import React from 'react';
+import Navigation from '../components/Navigation';
+import Logo from '../components/Logo';
+
+const About = () => {
+    return (
+        <div>
+            <Logo />
+            <Navigation />
+            <h1>A PROPOS</h1>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque rerum nostrum fuga corrupti molestias adipisci qui necessitatibus eaque, veritatis quasi iure vitae labore. Aspernatur cupiditate illum similique neque perspiciatis, in natus aut odio ab asperiores minima accusantium nulla sequi beatae reprehenderit! Aut, perspiciatis expedita consequatur placeat aspernatur architecto quod magni cupiditate sequi omnis fugiat repudiandae adipisci neque quaerat soluta vero hic ab? Reprehenderit optio maxime officia labore voluptatem suscipit rerum illo sed! A, minima itaque maiores perspiciatis autem iste possimus repellat labore dolores atque neque ad eos pariatur illum ipsam fugiat veritatis dolore ab similique tempore consequatur velit? Molestias nisi temporibus quibusdam explicabo, veritatis exercitationem cumque voluptates impedit fuga quasi dicta eos, labore molestiae ducimus aspernatur tempora aperiam necessitatibus tempore quaerat. Aut molestias, eligendi, quisquam voluptatibus ex ducimus laborum doloremque odit dolores itaque repellat? Quam quae, dolore eius, magni fugiat asperiores officiis voluptas vero veniam in quod eos commodi reprehenderit molestias. Fuga omnis pariatur corporis. Illum ea ratione repellat reiciendis! Illum ad itaque fugit sit aspernatur totam, assumenda culpa accusamus repellendus aperiam fuga facere, distinctio sequi aliquid voluptas architecto ex reiciendis cupiditate iusto dicta atque, a nisi expedita harum. Tempore nemo quidem voluptas illum incidunt animi esse commodi alias. Unde.</p>
+            <br />
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vero cum blanditiis nesciunt quidem! Ipsum similique accusamus architecto dignissimos sit quam soluta perferendis ex voluptas. Voluptatum deserunt iste eum perspiciatis beatae dignissimos ipsa non consequuntur pariatur! Ab repellat totam officiis minus aliquid quaerat illo unde sequi non provident repudiandae ratione, quidem tenetur dicta nulla rem natus error magni ipsam nesciunt alias expedita at! Reprehenderit perspiciatis voluptatibus cupiditate ut rem nisi. Officiis ducimus expedita totam accusamus unde fuga amet numquam dignissimos laborum quae, ipsam mollitia et similique reprehenderit ipsa soluta rem! Tenetur atque sunt, fuga nisi doloribus fugit. Accusamus ea non magnam quas id quaerat repellat. Dicta recusandae eum itaque ducimus obcaecati neque, veritatis natus voluptatum similique vitae dignissimos vel nostrum voluptatibus incidunt voluptatem accusantium aut, expedita nobis cupiditate beatae porro commodi suscipit! Sed corporis consectetur hic rem animi facere omnis enim sunt, deleniti neque laboriosam quae reprehenderit totam amet odio, obcaecati itaque dolore. Consectetur earum rem fuga animi, sit ratione hic pariatur consequuntur dignissimos, culpa veritatis assumenda doloremque impedit explicabo molestiae accusamus sapiente dolores voluptatum ducimus. Nemo voluptatum, soluta corrupti consequatur mollitia modi delectus accusantium necessitatibus laudantium rem, libero exercitationem. Hic ut unde voluptatibus rem modi exercitationem soluta doloremque aperiam voluptatum.</p>
+        </div>
+    );
+};
+
+export default About;
